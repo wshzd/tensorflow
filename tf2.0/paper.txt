@@ -1,0 +1,3 @@
+TensorFlow 2.0深度学习开源书
+https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
+
