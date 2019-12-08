@@ -4,8 +4,8 @@ https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
 https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
 
-
-
+TensorFlow 2.0 实战案例
+https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 
 
