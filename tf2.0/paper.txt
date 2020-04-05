@@ -7,6 +7,7 @@ https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
 TensorFlow 2.0 实战案例
 https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
-
-
+《30天吃掉那只 TensorFlow2.0 》
+https://lyhue1991.github.io/eat_tensorflow2_in_30_days/
+https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 
